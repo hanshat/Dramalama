@@ -1,7 +1,7 @@
 import { Image, Chip } from "@nextui-org/react";
 
 import { SERIES_INFO } from "../components/data-fetch";
-import Questions from "../app/movies/components/faqs.jsx";
+import Questions from "../app/movies/components/faqs";
 import SeriesDescriptionTabs from "../components/descriptionTabs";
 import SeriesVideoPlayer from "../components/videoPlayer";
 
